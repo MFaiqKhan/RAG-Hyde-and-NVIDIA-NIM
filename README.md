@@ -11,11 +11,13 @@ To run this script, follow these steps:
 1. **Set Up Your Environment**:
    - Ensure Python is installed.
    - Install the required packages using pip:
-     ```
+  
+     
+   ```
    !pip install langchain_nvidia_ai_endpoints
    !pip install langchain-community langchain-text-splitters
    !pip install faiss-cpu
-     ```
+   ```
 
 2. **Prepare Your Google Colab Notebook**:
    - Open Google Colab and create a new notebook.
